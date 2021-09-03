@@ -1,0 +1,1 @@
+{"timeMillis":1431689634900,"thread":"main","level":"TRACE","loggerName":"com.kakakikikeke.sample.Log4j2Sample","message":"kakakikikeke 20 Japan","endOfBatch":false,"loggerFqcn":"org.apache.logging.log4j.spi.AbstractLogger","source":{"class":"com.kakakikikeke.sample.Log4j2Sample","method":"main","file":"Log4j2Sample.java","line":24}}
